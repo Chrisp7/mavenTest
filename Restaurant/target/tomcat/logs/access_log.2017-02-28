@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2017:13:35:22 +0800] "GET /Restaurant/noodes HTTP/1.1" 404 985 http-bio-8080-exec-1 31
+0:0:0:0:0:0:0:1 - - [28/Feb/2017:13:35:27 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-3 4
