@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+  xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.netease.restaurant</groupId>
   <artifactId>restaurant-parent</artifactId>
-  <packaging>pom</packaging><!--这里的packaging 不再是jar 也不是 war，而是pom，表示用来管理他下面的子项目的-->
+  <packaging>pom</packaging>
   <version>1.0.0-SNAPSHOT</version>
   <name>Multi modules demo</name>
   <modules>
